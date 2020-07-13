@@ -21,7 +21,8 @@ public class Annotations {
 	@BeforeSuite
 	public void first() {
 		
-		System.out.println("1");
+	
+		System.out.println("-----------------");
 	}
 	
 	@BeforeTest
