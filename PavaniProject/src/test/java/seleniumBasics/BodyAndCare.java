@@ -35,7 +35,11 @@ public class BodyAndCare {
 				if(ele.getText().equals("Sun Care")) {
 					
 					ele.click();
-					
+
+					System.out.println("Testing");
+
+					System.out.println("Test");
+					System.out.println("Conflicts");
 					break;
 				}
 			}

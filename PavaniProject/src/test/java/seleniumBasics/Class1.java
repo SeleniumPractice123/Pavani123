@@ -17,7 +17,7 @@ public class Class1 {
 		// System.setProperty("webdriver.chrome.driver",
 		// "./DriverFiles/chromedriver.exe");
 		// driver = new ChromeDriver();
-
+		System.out.println("");
 		System.setProperty("webdriver.ie.driver", "./DriverFiles/IEDriverServer.exe");
 
 		DesiredCapabilities cap =DesiredCapabilities.internetExplorer();
