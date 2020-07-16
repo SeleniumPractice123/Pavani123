@@ -36,7 +36,6 @@ public class BodyAndCare {
 					
 					ele.click();
 					System.out.println("Testing");
-					System.out.println("Test");
 					System.out.println("Conflicts");
 					break;
 				}
